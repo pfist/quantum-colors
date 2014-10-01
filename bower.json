@@ -1,0 +1,9 @@
+{
+    "name": "quantum-colors",
+    "version": "1.0.0",
+    "main": "_quantum-colors.scss",
+    "ignore": [
+        "package.json",
+        "sache.json"
+    ]
+}
