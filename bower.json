@@ -11,12 +11,12 @@
     "scss",
     "colors",
     "design",
-    "ui"
+    "ui",
   ],
   "license": "MIT",
   "homepage": "https://github.com/nickpfisterer/quantum-colors",
   "authors": [
-    "Nick Pfisterer <hello@nickp.co>"
+    "Nick Pfisterer <hello@nickp.co>",
   ],
   "description": "Use the color palette from Google's Material Design spec in your Sass projects."
 }
