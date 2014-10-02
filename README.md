@@ -26,6 +26,6 @@ That's all there is to it. If you find any bugs or have suggestions for a future
 
 ## Changelog
 **v1.0.0** (10-01-2014):
-* First version
+* First release
 * Bower support
 * Discoverable on [Sache](http://sache.in)

@@ -9,7 +9,7 @@
   "main": "_quantum-colors.scss",
   "ignore": [
     "sache.json"
-  ]
+  ],
   "keywords": [
     "css",
     "sass",
