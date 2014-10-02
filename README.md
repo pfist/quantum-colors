@@ -1,4 +1,4 @@
-![Quantum Colors Logo](https://www.dropbox.com/s/tyyjfiltnrp2n99/quantum-colors-logo.png)
+![Quantum Colors Logo](https://dl.dropboxusercontent.com/u/3106750/github/quantum-colors-logo.png)
 ==============
 
 Use the color palette from Google's [Material Design](http://www.google.com/design/spec/style/color.html#color-ui-color-palette) spec in your Sass projects.
