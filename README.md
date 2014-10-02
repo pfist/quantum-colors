@@ -8,10 +8,10 @@ Use the color palette from Google's [Material Design](http://www.google.com/desi
 * [Download](https://github.com/nickpfisterer/quantum-colors) and add to your project manually
 
 ## Usage
-Import Quantum Colors at the top of your Sass files.
+Import Quantum Colors at the top of your Sass files. For example:
 
 ```scss
-@import "quantum-colors";
+@import "../bower_components/quantum-colors/quantum-colors";
 ```
 
 With the exception of ```$black``` and ```$white```, all colors use the naming convention presented in the Material Design spec. For example, to use Red 500 as a background color:
