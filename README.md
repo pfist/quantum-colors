@@ -10,11 +10,14 @@ Use the color palette from Google's [Material Design](http://www.google.com/desi
 ## Usage
 Import Quantum Colors at the top of your Sass files.
 
-```@import "quantum-colors";```
+```scss
+@import "quantum-colors";
+```
 
 With the exception of ```$black``` and ```$white```, all colors use the naming convention presented in the Material Design spec. For example, to use Red 500 as a background color:
 
-```.my-red-thing {
+```css
+.my-red-thing {
     background-color: $red-500;
 }
 ```
