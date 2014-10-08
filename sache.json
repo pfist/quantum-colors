@@ -1,5 +1,5 @@
 {
     "name": "quantum-colors",
-    "description": "Use the color palette from Google's Material Design spec in your Sass projects.",
+    "description": "Material Design color palette for your Sass projects.",
     "tags": ["design", "ui", "colors"]
 }
