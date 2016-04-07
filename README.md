@@ -25,6 +25,9 @@ With the exception of ```$black``` and ```$white```, all colors use the naming c
 That's all there is to it. If you find any bugs or have suggestions for a future version, please feel free to [submit an issue](https://github.com/nickpfisterer/quantum-colors/issues).
 
 ## Changelog
+**v1.1.0** (02-24-2016):
+* Update $blue series to match Google's updated palette (thanks to @mingjuitsai)
+
 **v1.0.1** (10-01-2014):
 * Fix a bug with Amber A700
 
